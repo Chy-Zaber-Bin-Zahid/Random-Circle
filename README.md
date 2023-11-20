@@ -1,2 +1,1 @@
-# Catch-Game
 # Random-Circle
